@@ -1,12 +1,12 @@
-## 👋 Olá, eu sou o Felipe!
+## 👋 Hello, I'm Felipe!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC  
-🛠️ Curioso por tecnologia, apaixonado por programação  
-🚀 Sempre tentando melhorar (inclusive no inglês e matemática 😅)  
+🎓 Systems Analysis and Development student at FATEC  
+🛠️ Technology enthusiast with a passion for programming  
+🚀 Always improving (especially in English and math — we're getting there 😅)
 
 ---
 
-### 🧠 Conhecimentos
+### 🧠 Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -17,27 +17,27 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Stats
 
 ![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KastyYasz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KastyYasz&layout=compact&theme=radical)
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 - Email: [felipe.siqueira0810@gmail.com](mailto:felipe.siqueira0810@gmail.com)  
-- GitHub: [github.com/KastyYasz](https://github.com/KastyYasz)  
+- GitHub: [github.com/KastyYasz](https://github.com/KastyYasz)
 
 ---
 
-### 🎮 Projetos em andamento
+### 🚧 Projects in Progress
 
-- 🔧 RPG de terminal em C++
-- 📋 Lista de tarefas no terminal
-- 🚧 Melhorando lógica, matemática e inglês (tamo tentando né...)
+- 🔧 Terminal RPG in C++
+- 📋 Task list app in the terminal
+- 🧮 [BaseBuddy](https://github.com/KastyYasz/BaseBuddy): Base converter (supports bases 2 to 36) written in C
+- 📚 Improving logic, math, and English — work in progress!
 
 ---
 
-> “Não é que eu sou burro, é que eu ainda tô em beta.”
-
+> “I'm not dumb, I'm just still in beta.”
